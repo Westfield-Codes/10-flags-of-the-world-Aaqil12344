@@ -8,8 +8,8 @@ a {
     text-align:center;
 }
 .flag{
-    width:500px;
-    height:300px;
+    width:660px;
+    height:450px;
     margin:auto;
 }
 .stripe{
@@ -17,17 +17,20 @@ a {
     height:100px;
 }
 .white{
-    background:#EF3340;
+    background:#fff;
 }
 .green{
-    background:#00976E;
+    background:#007A33;
 }
 .red{
-    background:#00B5E2;
+    background:#DA291C;
 }
 body{
     background:#F8F8F8;
 }
+.yellow{
+    background:#F4E400;
 
+}
 
 
